@@ -1,7 +1,7 @@
-🚀 Gemini Clone – AI Assistant UI Built with React.js
+# 🚀 Gemini Clone – AI Assistant UI Built with React.js
 Welcome to the Gemini Clone, a modern and responsive front-end replica of Google’s Gemini AI interface, built entirely with React.js. This project mimics the clean design, conversational layout, and user-friendly functionality of the real Gemini platform, offering a sleek, intuitive environment for experimenting with chatbot UI/UX concepts.
 
-🔧 Features
+# 🔧 Features
 💬 Chat Interface: A dynamic and responsive chat layout with a smooth message flow.
 
 🎨 Modern UI: Inspired by Google's Material Design – minimalist, elegant, and mobile-friendly.
@@ -14,7 +14,7 @@ Welcome to the Gemini Clone, a modern and responsive front-end replica of Google
 
 🔁 Component-Based: Built with reusable React components for scalability and clean code structure.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Frontend: React.js (with Hooks)
 
 Styling: Tailwind CSS / CSS Modules (adjust based on what you used)
@@ -23,7 +23,7 @@ Routing: React Router (if applicable)
 
 State Management: useState, useEffect (or context, Redux, etc.)
 
-🚧 Future Enhancements
+# 🚧 Future Enhancements
 ✨ API integration with Gemini or OpenAI for real-time AI responses.
 
 📱 PWA support for mobile usage.
@@ -33,7 +33,7 @@ State Management: useState, useEffect (or context, Redux, etc.)
 💾 Chat history saved in local storage or backend.
 
 
-📂 Getting Started
+# 📂 Getting Started
 Clone the repository
 
 bash
@@ -53,9 +53,9 @@ bash
 Copy
 Edit
 npm start
-🙌 Contributing
+# 🙌 Contributing
 Feel free to fork this repo and submit pull requests. Feedback, issues, and suggestions are welcome!
 
-📄 License
+# 📄 License
 MIT License © 2025 [Your Name]
 
